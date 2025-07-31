@@ -27,6 +27,8 @@ Once you make a copy of this template you can remove this section.
 -- etc/
   -- contains code and data needed for readme, website, etc., not needed for the package
   -- contains helper scripts for building data that goes in the package, e.g., downloading images or data
+-- bin/
+  -- scripts to install in the users PATH
 -- src/packagename/
   -- contains the package code
   -- data/
